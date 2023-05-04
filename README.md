@@ -2,7 +2,7 @@
 
 "My Gym" is a full-stack web application built using the MERN (MongoDB, Express, React, Node.js) stack. It is designed to help gym owners and managers manage their gym operations more efficiently.
 
-For more details check out the project report [here.](https://docs.google.com/document/d/1wtS22mbR2yVoI5TgYi7xYifr6dHjjGycg6LM1OjNwxQ/edit?usp=sharing)
+For more details (architecture, etc...), Check out the project report [here.](https://docs.google.com/document/d/1wtS22mbR2yVoI5TgYi7xYifr6dHjjGycg6LM1OjNwxQ/edit?usp=sharing)
 
 ## Features
 
